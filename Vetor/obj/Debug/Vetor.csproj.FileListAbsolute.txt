@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\bin\Debug\Vetor.exe.config
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\bin\Debug\Vetor.exe
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\bin\Debug\Vetor.pdb
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\obj\Debug\Vetor.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\obj\Debug\Vetor.exe
+C:\Users\Otavio\Desktop\curso 2\Vetor\Vetor\obj\Debug\Vetor.pdb
